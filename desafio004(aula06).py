@@ -1,0 +1,5 @@
+x=input('Digite algo: ')
+print('O tipo do que foi digitado é: ',type(x))
+print('É numérico? ',x.isnumeric())
+print('É letra? ',x.isalpha())
+print('É alfanumérico? ',x.isalnum())
