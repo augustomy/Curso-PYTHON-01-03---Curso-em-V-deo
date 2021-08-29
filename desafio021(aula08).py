@@ -1,2 +1,2 @@
-import mp3p
-mp3p.play('musica APRESENTACAO RINRI.mp3')
+from playsound import playsound
+playsound('musica.mp3')
