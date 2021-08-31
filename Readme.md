@@ -1,2 +1,1 @@
-Projeto de como usar o Git
-Teste Alteração
+Aulas e exercícios resolvidos do Curso em Vídeo - Mundo 01
