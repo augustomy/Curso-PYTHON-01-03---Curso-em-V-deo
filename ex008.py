@@ -1,4 +1,4 @@
-x = float(input('Digite uma distância em metros: '))
+x = float(input('Digite uma distância em \033[4;31mmetros\033[m: '))
 km = x / 1000
 hm = x / 100
 dam = x / 10

@@ -1,4 +1,4 @@
-n = int(input('Digite um número inteiro: '))
+n = int(input('Digite um número \033[1;31;47minteiro\033[m: '))
 a = n * 0
 b = n * 1
 c = n * 2
